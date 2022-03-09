@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechnicGamerHD
-- 👀 I’m interested in Gaming/Programming/Server+Discord Adminestration
-- 🌱 I’m currently learning Node.JS
+- 👀 I’m interested in Gaming/Programming
+- 🌱 I’m currently learning DiscordGO
 - 💞️ I’m looking to collaborate on myself LUL
 - 📫 How to reach me Discord: TechnicGamerHD#4067
 
