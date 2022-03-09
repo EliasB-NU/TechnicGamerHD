@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TechnicGamerHD
 - 👀 I’m interested in Gaming/Programming
 - 🌱 I’m currently learning DiscordGO
-- 💞️ I’m looking to collaborate on myself LUL
+- 🌱 My Languages are: Go, Java
+- 💞️ I’m looking to collaborate with oters
 - 📫 How to reach me Discord: TechnicGamerHD#4067
 
 <!---
