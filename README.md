@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Nothing sadge**
 
-- 🤝 I’m looking for help with **GO**
+- 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.tghd.eu](https://gitlab.tghd.eu)
 
