@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **GO**
 
-- 📫 How to reach me **tghd@tghd.email**
+- 📫 How to reach myself **tghd@tghd.email**
 
 - ⚡ Fun fact **https://monarchupload.cc best uploader**
 
