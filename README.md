@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicgamerhd" alt="technicgamerhd" /></a> </p>
 
-- 🔭 I’m currently working on [DiscordXPtero Bot in Typescript and an AI Camera Analyser]
+- 🔭 I’m currently working on [DiscordXPtero Bot in Typescript]
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Nothing sadge**
+- 👯 I’m looking to collaborate on **Nothing**
 
 - 🤝 I’m looking for help with **Nothing**
 
