@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicgamerhd" alt="technicgamerhd" /></a> </p>
 
-- 🔭 I’m currently working on [DiscordXPtero Bot in Typescript]
+- 🔭 I’m currently working on [Better Uptime]
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React.JS**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [https://gitea.tghd.dev](https://gitea.tghd.dev)
+- 👨‍💻 All of my projects are available at [https://gitea.tghd.dev](https://gitlab.tghd.dev)
 
 - 💬 Ask me about **GO**
 
