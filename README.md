@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [https://gitea.tghd.dev](https://gitlab.tghd.dev)
+- 👨‍💻 All of my projects are available at [https://gitlab.tghd.dev](https://gitlab.tghd.dev/explore)
 
 - 💬 Ask me about **GO**
 
