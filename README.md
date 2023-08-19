@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicgamerhd" alt="technicgamerhd" /></a> </p>
 
-- 🔭 I’m currently working on [Better Uptime]
+- 🔭 I’m currently working on [W-Seminar]
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach myself **tghd@tghd.email**
 
-- ⚡ Fun fact **https://monarchupload.cc best uploader**
+- ⚡ Fun fact **reigning robocup junior soccer lightweight leauge super team champion **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
