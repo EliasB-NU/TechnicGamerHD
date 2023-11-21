@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicgamerhd" alt="technicgamerhd" /></a> </p>
 
-- 🔭 I’m currently working on [Nothing]
+- 🔭 I’m currently working on RoboCup Junior shedule and results service for local tournaments
 
 - 🌱 I’m currently learning **Nothing**
 
